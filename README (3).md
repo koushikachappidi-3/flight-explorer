@@ -241,8 +241,4 @@ This will execute:
 <img width="825" height="172" alt="image" src="https://github.com/user-attachments/assets/1c6ad2a1-80b0-485a-8229-b619a12c47ae" />
 
 
-### Smoke Test
-A lightweight health check for critical endpoints:
-Validates that `/airports`, `/airlines`, `/routes` are responding correctly.
-
 ---
